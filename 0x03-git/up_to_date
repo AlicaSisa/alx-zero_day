@@ -1,2 +1,5 @@
 touch
+<<<<<<< HEAD
 git pull
+=======
+>>>>>>> update_script
